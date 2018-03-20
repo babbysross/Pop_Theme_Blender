@@ -16,6 +16,11 @@ The color values from this theme come from [VsCodePopTheme](https://github.com/a
 Some colours are also picked from Pop!_OS Standard Backgrounds.
 
 
+## Key Config
+
+I've also put my blender key config file in this repo, mainly for personal use but use if you wish.
+Currently it binds the forward and back page buttons on my mouse to repeat history (F3) and mesh select mode (edit mode - vertex/edge/face) and it binds Alt+scroll wheel to change brush size in sculpt mode.
+
 ## License
 
 [BSD 3-Clause License](./LICENSE)
